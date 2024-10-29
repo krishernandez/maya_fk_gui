@@ -4,3 +4,5 @@ Maya. The script that is running within the GUI selects and manipulates joints a
 in Maya, including history deletion, transformation freezing, and constraints. This can be
 used for simple FK controls. The original joints and curves manipulation script used, was 
 referenced from class material. 
+
+Original start date: October 18th, 2024
